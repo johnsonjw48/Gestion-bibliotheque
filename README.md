@@ -13,7 +13,7 @@ On y retrouve tous les éléments d'un CRUD :
 
 
 ### Conception : 
-Ce projet est fait en programmation orientée objet et avec l'architecture MVC (Modèle, Vue Contrôleur).
+Ce projet est fait en programmation orientée objet et structurer en MVC (Modèle, Vue Contrôleur).
 
 
 
