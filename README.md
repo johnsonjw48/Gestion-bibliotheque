@@ -4,7 +4,9 @@ J'ai développé un site web de gestion d'une bibliothèque en PHP et avec une b
 
 ### Fonctionnalités : 
 
-On y retrouve tous les éléments d'un CRUD :
+* Système d'inscription et connexion
+
+On y retrouve également tous les éléments d'un CRUD :
 
 * Create : Publié un article
 * Read :  Sur la page d’accueil sont lister les cinq derniers articles publiés
