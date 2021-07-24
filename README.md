@@ -31,3 +31,7 @@ Pour la sauvegarde des membres, je me suis protégé des failles XSS et injectio
 Si un membre est connecté, son prénom et son nom sont sur le header durant toute la navigation. Il pourra également créer des articles.
 
 Sur  la page d’accueil sont lister les cinq derniers articles publiés. Pour chaque article on a le titre et l’auteur.
+
+
+
+### Comment lancer le projet? 
