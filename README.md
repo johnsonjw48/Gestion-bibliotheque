@@ -35,3 +35,5 @@ Sur  la page d’accueil sont lister les cinq derniers articles publiés. Pour c
 
 
 ### Comment lancer le projet? 
+
+Accéder au dossier dans lequel les fichiers ont été stocké via votre navigateur web en passant par vos serveurs.
