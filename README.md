@@ -1,6 +1,6 @@
 # Création d’une interface web dynamique pour la gestion d'une bibliothèque
 
-J'ai développé une application de gestion d'une bibliothèque en PHP et avec une base de données MySQL. Elle  fournit une interface frontend et une interface backend.
+J'ai développé un site web de gestion d'une bibliothèque en PHP et avec une base de données MySQL. Elle  fournit une interface frontend et une interface backend.
 
 ### Fonctionnalités : 
 
@@ -10,6 +10,12 @@ On y retrouve tous les éléments d'un CRUD :
 * Read :  Sur la page d’accueil sont lister les cinq derniers articles publiés
 * Update : Mettre à jour un article
 * Delete : Supprimer un article
+
+
+### Conception : 
+Ce projet est fait en programmation orientée objet et avec l'architecture MVC (Modèle, Vue Contrôleur).
+
+
 
 ### Technologies utilisées : 
 
