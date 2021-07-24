@@ -26,7 +26,7 @@ On y retrouve tous les éléments d'un CRUD :
 * MySQL
 
 
-La validation des formulaires (inscription et connexion) côté client sont  faite en JavaScript. 
+La validation des formulaires (inscription et connexion) côté client est  faite en JavaScript. 
 Pour la sauvegarde des membres, je me suis protégé des failles XSS et injection SQL par hachage de mot de passe.
 Si un membre est connecté, son prénom et son nom sont sur le header durant toute la navigation. Il pourra également créer des articles.
 
