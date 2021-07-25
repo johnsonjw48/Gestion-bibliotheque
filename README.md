@@ -1,6 +1,6 @@
 # Création d’une interface web dynamique pour la gestion d'une bibliothèque
 
-J'ai développé un site web de gestion d'une bibliothèque en PHP et avec une base de données MySQL. Elle  fournit une interface frontend et une interface backend.
+J'ai développé un site web de gestion d'une bibliothèque en PHP et avec une base de données MySQL. Il  fournit une interface frontend et une interface backend.
 
 ### Fonctionnalités : 
 
