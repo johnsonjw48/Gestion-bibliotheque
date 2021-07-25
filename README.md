@@ -26,7 +26,6 @@ Ce projet est fait en programmation orientée objet (POO) et structurer en MVC (
 * HTML
 * CSS
 * JavaScript
-* jQuerry
 
 ##### Back end: 
 
